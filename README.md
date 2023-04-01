@@ -16,7 +16,7 @@ Interact with my dashboard 📌 [here](https://app.powerbi.com/links/qU4In2XAfj?
 
 ## Data Description
 
- The data set contains 1601 rows and 6 columns. It included the number of companies and industries is 1600 and 186 respectively. The data set was sourced from [](mavenanalytics.io)
+ The data set contains 1601 rows and 6 columns. It included the number of companies and industries is 1600 and 186 respectively. The data set was sourced from [Maven Analytics](mavenanalytics.io)
 
 I cleaned the data by removing the irrelevant columns ( for example, “ID column”) and changing the data type to the whole number. I noticed the columns contained an error, I fixed that by replacing the null (i.e N\A as represented in the data) to “0”, using replace value function.
 
