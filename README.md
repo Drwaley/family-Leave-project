@@ -1,7 +1,7 @@
 # Family-Leave-project
 
 
-<img src = "https://github.com/Drwaley/family-Leave-project/blob/main/new_family.png" width = "1780" height = "500">
+<img src = "https://github.com/Drwaley/family-Leave-project/blob/main/new_family.png" width = "1500" height = "400">
 
 
 ## Introduction
